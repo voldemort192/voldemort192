@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @voldemort192
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on whatever interesting projects ideas
+- 📫 How to reach me: ihab.lakhlifi1124@gmail.com
